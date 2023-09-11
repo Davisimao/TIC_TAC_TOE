@@ -1,4 +1,4 @@
-# TIC_TAC_TOE
+# Jogo da Velha
 
 Projeto realizados no curso da One Bit Code, no curso de JavaScript FullStack. 
 
